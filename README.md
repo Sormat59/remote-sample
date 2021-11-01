@@ -1,24 +1,11 @@
-# Twitter bootstrap
+# NeuroStartUp
 
-## Начало работы
-**Twitter bootstrap** - CSS-фреймворк. [Оф.сайт](https://getbootstrap.com)
-![Bootstrap logo](https://i.imgur.com/qhtywl2.png)
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
-Варианты установки:
-* CDN
-* Npm
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
-### Установка через CDN
+Наши преимущества:
+* Высокая точность поиска
+* Высокая скорость поиска
+* Низкая цена
 
-### Установка через NPM
-
-1. Выполнить команду
-1. .....
-
-## Использование
-
-```html
-<html>
-    <head></head>
-</html>
-```
